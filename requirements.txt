@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openrouter
+python-dotenv
+pydantic
+sentence-transformers
+chromadb
+langchain-openrouter
+langhcian-openai
+pypdf
+langchain-embeddings-openai
